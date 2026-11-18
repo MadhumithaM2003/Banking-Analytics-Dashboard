@@ -77,14 +77,11 @@ Through this project, I gained practical experience in:
 ```text
 Banking_Analytics/
 │
-├── Dataset/
-│   └── Banking_dataset.xlsx
+├── Banking_dataset.xlsx
 │
-├── Dashboard/
-│   └── Banking_dashboard.xlsx
+├── Banking_dashboard.xlsx
 │
-├── Screenshot/
-│   └── dashboard.png
+├── dashboard.png
 │
 └── README.md
 ```
