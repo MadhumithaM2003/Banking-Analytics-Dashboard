@@ -70,7 +70,7 @@ Through this project, I gained practical experience in:
 
 🖥️ Dashboard Preview
 
-![Banking Analytics](Screenshot/dashboard.png)
+![Banking Analytics](dashboard.png)
 
 📁 Project Structure
 
